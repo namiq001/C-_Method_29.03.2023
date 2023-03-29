@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\sources\hometest\bin\Debug\net6.0\hometest.exe
+C:\Users\user\Desktop\sources\hometest\bin\Debug\net6.0\hometest.deps.json
+C:\Users\user\Desktop\sources\hometest\bin\Debug\net6.0\hometest.runtimeconfig.json
+C:\Users\user\Desktop\sources\hometest\bin\Debug\net6.0\hometest.dll
+C:\Users\user\Desktop\sources\hometest\bin\Debug\net6.0\hometest.pdb
+C:\Users\user\Desktop\sources\hometest\obj\Debug\net6.0\hometest.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\sources\hometest\obj\Debug\net6.0\hometest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\sources\hometest\obj\Debug\net6.0\hometest.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\sources\hometest\obj\Debug\net6.0\hometest.AssemblyInfo.cs
+C:\Users\user\Desktop\sources\hometest\obj\Debug\net6.0\hometest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sources\hometest\obj\Debug\net6.0\hometest.dll
+C:\Users\user\Desktop\sources\hometest\obj\Debug\net6.0\refint\hometest.dll
+C:\Users\user\Desktop\sources\hometest\obj\Debug\net6.0\hometest.pdb
+C:\Users\user\Desktop\sources\hometest\obj\Debug\net6.0\hometest.genruntimeconfig.cache
+C:\Users\user\Desktop\sources\hometest\obj\Debug\net6.0\ref\hometest.dll
